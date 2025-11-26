@@ -1,2 +1,2 @@
 # Dark-Symphony
-Contains the scripts for Dark Symphony, the horror game.
+Contains the contents of Dark Symphony, the horror game
