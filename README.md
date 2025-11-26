@@ -1,2 +1,2 @@
-# Dark-Symphony
-Contains the contents of Dark Symphony, the horror game
+# Dark Symphony Scripts
+Contains the C# scripts I developed for Dark Symphony, the horror game
